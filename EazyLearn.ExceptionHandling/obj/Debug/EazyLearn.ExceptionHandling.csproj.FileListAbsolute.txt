@@ -1,0 +1,7 @@
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\ExceptionHandling\EazyLearn.ExceptionHandling\EazyLearn.ExceptionHandling\obj\Debug\EazyLearn.ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\ExceptionHandling\EazyLearn.ExceptionHandling\EazyLearn.ExceptionHandling\bin\Debug\EazyLearn.ExceptionHandling.exe.config
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\ExceptionHandling\EazyLearn.ExceptionHandling\EazyLearn.ExceptionHandling\bin\Debug\EazyLearn.ExceptionHandling.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\ExceptionHandling\EazyLearn.ExceptionHandling\EazyLearn.ExceptionHandling\bin\Debug\EazyLearn.ExceptionHandling.pdb
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\ExceptionHandling\EazyLearn.ExceptionHandling\EazyLearn.ExceptionHandling\obj\Debug\EazyLearn.ExceptionHandling.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\ExceptionHandling\EazyLearn.ExceptionHandling\EazyLearn.ExceptionHandling\obj\Debug\EazyLearn.ExceptionHandling.pdb
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\ExceptionHandling\EazyLearn.ExceptionHandling\EazyLearn.ExceptionHandling\obj\Debug\EazyLearn.ExceptionHandling.csprojAssemblyReference.cache
